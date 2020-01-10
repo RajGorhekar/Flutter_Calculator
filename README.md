@@ -1,6 +1,6 @@
 # calculator
 
-A Basic Calculator with stunning UI/UX for performing most of calculations
+A Basic Calculator with a good UI/UX for performing most of calculations
 
 ## this is how it looks :
 
