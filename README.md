@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 A Basic Calculator with a good UI/UX for performing most of calculations .
 ## This is how it looks :
