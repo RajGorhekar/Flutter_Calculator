@@ -1,5 +1,5 @@
 # Calculator
-
+ 
 A Basic Calculator with a good UI/UX for performing most of calculations .
 ## This is how it looks :
 ![Untitled](https://user-images.githubusercontent.com/58221273/72204370-f5b45480-349c-11ea-89a7-f9c008d47aa8.png) 
