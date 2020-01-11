@@ -2,7 +2,7 @@
 
 A Basic Calculator with a good UI/UX for performing most of calculations .
 ## This is how it looks :
-![Untitled](https://user-images.githubusercontent.com/58221273/72182713-0e2b5d00-3412-11ea-96b3-2445cea4652e.png)
+![Untitled](https://user-images.githubusercontent.com/58221273/72204370-f5b45480-349c-11ea-89a7-f9c008d47aa8.png)
 
 
 
