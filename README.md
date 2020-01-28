@@ -1,12 +1,12 @@
 # Calculator
-A Basic Calculator with a good UI/UX for performing most of calculations .
+A Basic Calculator with a good UI/UX for performing most of calculations made in Flutter .
 
 ## This is how it looks :
 ![Untitled](https://user-images.githubusercontent.com/58221273/72204370-f5b45480-349c-11ea-89a7-f9c008d47aa8.png) 
 
 
 
-##### Getting Started
+##### Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
